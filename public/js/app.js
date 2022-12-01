@@ -1,5 +1,5 @@
 var url = window.location.href;
-var swLocation = '/EVNDRA/sw.js';
+var swLocation = '/sw.js';
 
 var swReg;
 
